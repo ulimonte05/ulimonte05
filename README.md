@@ -15,5 +15,5 @@
 
 <h2 align="center">Tecnologías</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,typescript,css,python,tex,html" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=golang,typescript,css,python,html,linux,mongodb,sql" alt="Tecnologías">
 </p>
