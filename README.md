@@ -2,7 +2,7 @@
 
 <h3><b> - 🌱 I’m currently studying: Computer Science.. </b></h3>
 
-<h2 align="center">Tecnologías</h2>
+<h2 align="center">Redes activas</h2>
   <div align="center">>
     <a href="https://www.linkedin.com/in/umontenegro/" rel="nofollow" target="_blank">
       <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" style="max-width: 100%;">
@@ -14,5 +14,5 @@
 
 <h2 align="center">Tecnologías</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,typescript,css,python,html,linux,mongodb,sql" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=golang,typescript,css,python,html,linux,mongodb" alt="Tecnologías">
 </p>
